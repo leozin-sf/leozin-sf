@@ -13,6 +13,7 @@
 ## You can call me as Leozin, im a front-end developer!
 
 [![Leozin GitHub stats](https://github-readme-stats.vercel.app/api?username=leozin-sf&show_icons=true&theme=radical&count_private=true&cache_seconds=1800&hide_rank=true)](https://github.com/leozin-sf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leozin-sf&layout=compact&theme=radical)](https://github.com/leozin-sf/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leozin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
